@@ -65,3 +65,6 @@ You can include the controller and action names in your exceptions for easier de
 Bugsense::$controller = "welcome";
 Bugsense::$action = "index";
 ```
+
+Based on http://github.com/ankane/exceptional-php - some of the features above may not apply
+for bugsense (expect an update of the docs in the following days)
