@@ -66,5 +66,7 @@ Bugsense::$controller = "welcome";
 Bugsense::$action = "index";
 ```
 
+## Misc notes
+
 Based on http://github.com/ankane/exceptional-php - some of the features above may not apply
 for bugsense (expect an update of the docs in the following days)
