@@ -15,7 +15,7 @@ class BugsenseData {
         }
 		$where = "";
 		if ($this->backtrace && count($this->backtrace)>0) {
-			//$where = $this->backtrace[0];
+			$where = $this->backtrace[0];
 		}
 
         // environment data
